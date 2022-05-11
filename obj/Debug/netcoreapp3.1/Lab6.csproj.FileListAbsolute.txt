@@ -1,0 +1,45 @@
+D:\ПО-316\Сингх Харш Радж\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+D:\ПО-316\Сингх Харш Радж\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+D:\ПО-316\Сингх Харш Радж\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+D:\ПО-316\Сингх Харш Радж\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+D:\ПО-316\Сингх Харш Радж\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+D:\ПО-316\Сингх Харш Радж\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.Form1.resources
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.GenerateResource.cache
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+D:\ПО-316\Сингх Харш Радж\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.Form1.resources
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.GenerateResource.cache
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+E:\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+E:\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+E:\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+E:\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+E:\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+E:\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+E:\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.Form1.resources
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.GenerateResource.cache
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+D:\ПО-316\Сингх Харш Радж\ТрПо\c#\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
